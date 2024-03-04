@@ -1,0 +1,43 @@
+#capa-livro {
+    width: 190px;
+}
+p {
+    text-align: center;
+    line-height: 28px;
+    width: 930px;
+    margin: 0 auto; 
+}
+
+div {
+    border-bottom: 1px solid #d5d5d5;
+    font-family: tahoma;
+    padding: 50px;
+    text-align: center;
+}
+
+h3{
+    font-size: 20px;
+    font-family: tahoma;
+}
+
+h2 {
+    font-size: 24px;
+
+}
+
+a{
+    margin-bottom: 30px;
+    font-weight: bold;
+    background-color: green;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    border-radius: 18px;
+    padding: 9px 18px;
+    font-family: tahoma;
+}
+
+span{
+    font-weight: bold;
+}
